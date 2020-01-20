@@ -11,6 +11,7 @@ def toadstool
   end
   
  def link 
+help = "It's Dangerous To Go Alone! Take This."
 
 
 def any_phrase()
